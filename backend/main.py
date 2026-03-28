@@ -91,7 +91,7 @@ async def analyze_sentiment(text: str = Form(...)):
                     "num_predict": 10
                 }
             },
-            timeout=30
+            timeout=45 #increased due to timeout errors
         )
         
         response.raise_for_status()

@@ -1,5 +1,8 @@
 # 🎭 Sentiment Analyzer
 
+#Demo Image
+!( Sentiment Analyzer Screenshot)[/project2-screenshot.png]
+
 A production-grade sentiment analysis application powered by Mistral, FastAPI, and Streamlit. This project demonstrates modern AI application architecture with real-time text classification, comprehensive error handling, and production-ready deployment patterns.
 
 ## 🎯 Business Case
