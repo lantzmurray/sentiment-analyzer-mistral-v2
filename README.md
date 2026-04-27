@@ -2,6 +2,10 @@
 
 An AI-powered sentiment analysis application that classifies text sentiment as Positive, Negative, or Neutral. Perfect for social media monitoring, customer feedback analysis, and text mining.
 
+## Screenshot
+
+![SentimentAnalyzer](SentimentAnalyzer.png)
+
 ## Features
 
 - **Sentiment Classification**: Identifies emotional tone (Positive, Negative, Neutral)
